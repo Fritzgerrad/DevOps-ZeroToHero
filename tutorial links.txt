@@ -1,0 +1,106 @@
+1. Programming Language Playlist
+Java Playlist
+https://www.youtube.com/watch?v=bm0OyhwFDuY&list=PLsyeobzWxl7pe_IiTfNyr55kwJPWbgxB5&pp=iAQB
+
+Springboot Playlist
+https://www.youtube.com/watch?v=Zxwq3aW9ctU&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF&pp=iAQB
+
+Full Python Playlist
+https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&pp=iAQB
+
+Python for DevOps
+https://www.youtube.com/watch?v=haR-qwP50Nc&list=PLAdTNzDIZj_-3uxvcoF5bsx_MEHXSFgN5
+
+
+2.Version Control
+https://www.youtube.com/watch?v=bsgOZWdn9kg&list=PLsyeobzWxl7oFw34F4EtVsJxhWWu275Pu&pp=iAQB
+
+
+3. Linux
+Networking
+https://www.youtube.com/watch?v=tWuUZUyfSAs&list=PL3Hc8S1SG2AQHwI1SmwGoWOhbAE3Kf3bN
+
+Linux Basics & Administration
+https://www.youtube.com/watch?v=un_y-kYGk-A&list=PLqeGgqhFzalPNdbJJFafFYs8ieJqJi_Og&pp=iAQB
+
+https://www.youtube.com/watch?v=mxI2gOhVtbw
+
+
+Shell scripting
+https://www.youtube.com/watch?v=42xzx8B3Sus&list=PLqeGgqhFzalMK3kfpWUVvgDV535zS4oFa&pp=iAQB
+
+Linux Networking
+https://www.youtube.com/watch?v=6PCOHYzPVno
+
+
+4. Containerization
+
+Docker
+https://www.youtube.com/watch?v=31ieHmcTUOk&list=PL4cUxeGkcC9hxjeEtdHFNYMtCpjNBm3h7&pp=iAQB
+
+Kubernetes
+https://www.youtube.com/watch?v=JoHUi9KvnOA
+
+Helm
+Hhttps://www.youtube.com/watch?v=w51lDVuRWuk&list=PLnFWJCugpwfzCjufOk52ufg7CDxpLEmXi&pp=iAQB
+
+5. Microservices
+https://www.youtube.com/watch?v=h6aDu9e2L_s
+
+6. CI/CD Tools (Jenkins, GitLab, GitHub Actions, CircleCI)
+Jenkins
+https://www.youtube.com/watch?v=QIhRgW7OhPY
+
+Gitlab
+https://www.youtube.com/watch?v=8aV5AxJrHDg&t=6939s
+
+Github Actions
+https://www.youtube.com/watch?v=-hVG9z0fCac&list=PLArH6NjfKsUhvGHrpag7SuPumMzQRhUKY
+
+Circle CI
+https://www.youtube.com/watch?v=Js3hMUsSZ2c&list=PL9GgS3TcDh8x6tcY7HDq2zmEx0fAtwWsM
+
+7.  Infrastructure as Code (Terraform, Ansible, Pulumi)
+Terraform
+https://www.youtube.com/watch?v=IyfdN5_fB1I&list=PLOa-edppsqFm10V0vh-szO7YffAKcW5K-
+
+Ansible
+https://www.youtube.com/watch?v=O4i5Wh5JvyM&list=PLdpzxOOAlwvLxd5nmtmORCmhD5jkrNbuE
+
+Pelumi
+https://www.youtube.com/watch?v=1OtfZhJwvYI&list=PLGNdWBFrIUJc2vqu7kaBpZZHppzqScYPp
+
+8. Cloud Providers (AWS, Azure, GCP)
+AWS
+https://www.youtube.com/watch?v=GkKNxyLp_V0&list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze
+
+Azure
+https://www.youtube.com/watch?v=4BibQ69MD8c&pp=ygUFYXp1cmU%3D
+
+GCP
+https://www.youtube.com/watch?v=vACTtmLWiQY&pp=ygUaZ2NwIHR1dG9yaWFsIGZvciBiZWdpbm5lcnM%3D
+
+9. Monitoring and Logging (Prometheus, Grafana, ELK)
+Prometheus & Grafana
+https://www.youtube.com/watch?v=DuYnPOq4D6w&list=PLdsu0umqbb8NxUs8r8BIUe9-PhcoZyojA
+
+Elk 
+https://www.youtube.com/watch?v=29TwUCHILhM&pp=ygUMRUxLIHR1dG9yaWFs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
